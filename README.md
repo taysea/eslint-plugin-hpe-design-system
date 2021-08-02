@@ -36,6 +36,10 @@ Then configure the rules you want to use under the rules section.
 }
 ```
 
+## Contributing
+
+Looking to update a rule or write a new one? Read our [Contribution Guide](CONTRIBUTING.md).
+
 ## Supported Rules
 
 - alt-text
